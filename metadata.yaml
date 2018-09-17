@@ -1,0 +1,30 @@
+_repo: His-Most-Gracious-Majesty-King-Edward-VII_52237
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lowndes, Marie Belloc
+    aliases:
+    - Belloc, Marie Adelaide
+    - Belloc-Lowndes, Marie Adelaide
+    - Belloc, M. A. (Marie Adelaide)
+    - Lowndes, Marie Adelaide Belloc
+    birthdate: 1868
+    deathdate: 1947
+    gutenberg_agent_id: '786'
+    url: http://www.gutenberg.org/2009/agents/786
+    wikipedia: http://en.wikipedia.org/wiki/Marie_Adelaide_Belloc_Lowndes
+description: ''
+gutenberg_issued: '2016-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52237'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Edward VII, King of Great Britain, 1841-1910'
+- !lcc 'DA'
+- GITenberg
+title: His Most Gracious Majesty King Edward VII
+url: http://www.gutenberg.org/ebooks/52237
