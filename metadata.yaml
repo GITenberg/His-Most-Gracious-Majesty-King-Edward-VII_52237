@@ -1,5 +1,8 @@
 _repo: His-Most-Gracious-Majesty-King-Edward-VII_52237
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 52237-h/images/cover.jpg
 creator:
   author:
     agent_name: Lowndes, Marie Belloc
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/786
     wikipedia: http://en.wikipedia.org/wiki/Marie_Adelaide_Belloc_Lowndes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52237#His-Most-Gracious-Majesty-King-Edward-VII
 gutenberg_issued: '2016-06-04'
 gutenberg_type: Text
 identifiers:
